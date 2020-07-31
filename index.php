@@ -1,3 +1,4 @@
-<?php 
 
-echo "Eres un Kamikaze!";
+<h1>
+Eres un Kamikaze!
+</h1>
